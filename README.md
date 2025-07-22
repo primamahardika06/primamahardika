@@ -33,7 +33,7 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
 
 * **Universitas Telkom Surabaya**
     * S1 - Informatika
-    * (Saat Ini)
+    * (Pendidikan Saat Ini)
 
 ---
 
