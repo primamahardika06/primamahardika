@@ -4,13 +4,13 @@
 
 ---
 
-# 🚀 Tentang Saya
+# 🚀 About Me
 
 Saya adalah seorang **Full-stack Developer** yang _passionate_ dengan dunia teknologi dan pemrograman. Saya memiliki kemampuan untuk membangun aplikasi dari awal hingga akhir, mulai dari desain antarmuka pengguna hingga implementasi _backend_. Saat ini, saya adalah mahasiswa **S1 Informatika** di **Universitas Telkom Surabaya** yang antusias dalam belajar hal-hal baru dan mengembangkan _skill_ saya di berbagai bidang _development_.
 
 ---
 
-## 🛠️ Kemampuan Teknis
+## 🛠️ Technical Capabilities
 
 Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunakan dalam pengembangan _web_ dan lainnya:
 
@@ -29,7 +29,7 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
 
 ---
 
-## 🎓 Pendidikan Saya
+## 🎓 My Education
 
 * **Universitas Telkom Surabaya**
     * S1 - Informatika
@@ -37,29 +37,16 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
 
 ---
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/primamahardika06/primamahardika06/output/snake.svg" alt="Snake animation" />
-
-###
+### 📊 My Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=primamahardika06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=primamahardika06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 ---
 
-## 🌐 Mari Terhubung!
+## 🌐 Lets Connect with Me!
 
 Anda bisa menemukan saya di beberapa _platform_ berikut:
 
@@ -71,3 +58,4 @@ Anda bisa menemukan saya di beberapa _platform_ berikut:
 Terima kasih sudah berkunjung!
 
 ---
+
