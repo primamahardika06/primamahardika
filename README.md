@@ -32,10 +32,21 @@ Saya memiliki pengalaman dan keahlian dalam beberapa teknologi inti yang digunak
 ## 🎓 My Education
 
 * **Universitas Telkom Surabaya**
-    * S1 - Informatika
+    * S1 - Informatika Telkom University Surabaya
     * (Pendidikan Saat Ini)
 
 ---
+
+
+### 💡 My Project
+   * **Website Brevio**: [primamahardika06/Brevio](https://primamahardika06.github.io/Brevio/) // On progress
+   * **Website Desa Penglipuran**: [primamahardika06/Penglipuran](https://primamahardika06.github.io/Penglipuran/)
+   * **Website Fito.io**: [primamahardika06/Fito.io](https://primamahardika06.github.io/Fito.io/)
+   * **Website Cryvex**: [primamahardika06/cryvex](https://primamahardika06.github.io/cryvex/)
+   * **Projek Python**: [primamahardika06/python](https://github.com/primamahardika06/python)
+
+---
+
 
 ### 📊 My Github Stats
 
